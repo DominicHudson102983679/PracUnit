@@ -1,0 +1,9 @@
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\bin\Debug\netstandard2.0\testlib.deps.json
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\bin\Debug\netstandard2.0\testlib.dll
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\bin\Debug\netstandard2.0\testlib.pdb
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.dll
+C:\Users\User\Documents\GitHub\PracUnit\PracUnit\testlib\obj\Debug\netstandard2.0\testlib.pdb
